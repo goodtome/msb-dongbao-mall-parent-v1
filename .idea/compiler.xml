@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="msb-dongbao-oms-api" />
+        <module name="msb-dongbao-pay-api" />
+        <module name="msb-dongbao-pms-api" />
+        <module name="msb-dongbao-sms-api" />
+        <module name="msb-dongbao-application" />
+        <module name="msb-dongbao-dictionary-api" />
+        <module name="msb-dongbao-cart-api" />
+        <module name="msb-dongbao-ums-api" />
+        <module name="msb-dongbao-cms-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="msb-dongbao-api" target="1.5" />
+      <module name="msb-dongbao-application" target="1.5" />
+      <module name="msb-dongbao-cart-api" target="1.5" />
+      <module name="msb-dongbao-cart-api (1)" target="1.5" />
+      <module name="msb-dongbao-cms-api" target="1.5" />
+      <module name="msb-dongbao-dictionary-api" target="1.5" />
+      <module name="msb-dongbao-oms-api" target="1.5" />
+      <module name="msb-dongbao-pay-api" target="1.5" />
+      <module name="msb-dongbao-pms-api" target="1.5" />
+      <module name="msb-dongbao-sms-api" target="1.5" />
+      <module name="msb-dongbao-ums-api" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
