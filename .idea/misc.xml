@@ -5,7 +5,16 @@
       <list>
         <option value="$PROJECT_DIR$/msb-dongbao-api/pom.xml" />
         <option value="$PROJECT_DIR$/msb-dongbao-application/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-common/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-service/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-job/pom.xml" />
+        <option value="$PROJECT_DIR$/msb-dongbao-generator/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/msb-dongbao-service/untitled/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager">
